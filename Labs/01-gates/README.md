@@ -32,6 +32,7 @@
 |1|1|0|1|
 
 ### De Morganovy zákony
+![DML](../Screens/screen3.png)
 
 ![eqination](https://latex.codecogs.com/gif.latex?f%20%3D%20a%20%5Ccdot%5Cbar%7B%7D%20b%20&plus;%5Cbar%7B%7D%20b%20%5Ccdot%5Cbar%7B%7D%20c)
 
