@@ -19,4 +19,4 @@
  | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
  | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
 
-![7_seg_symbols](../Lab/Screens/7_seg_display_symbols.png)
+![7_seg_symbols](../Screens/7_seg_display_symbols.png)
