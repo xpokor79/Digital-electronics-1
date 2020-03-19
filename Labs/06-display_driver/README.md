@@ -27,3 +27,7 @@
 [WaveDrom](https://wavedrom.com/)
 
 ![time_diagram](../Screens/time_diagram.png)
+
+## Simulation
+
+![Simulation](../Screens/Lab6_Isim.png)
