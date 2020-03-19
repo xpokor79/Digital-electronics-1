@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Acer/Desktop/ISE/stopwatch/top_tb00_isim_beh.exe" -prj "C:/Users/Acer/Desktop/ISE/stopwatch/top_tb00_beh.prj" "work.top_tb00" 
