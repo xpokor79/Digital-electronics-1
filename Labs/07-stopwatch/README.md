@@ -12,5 +12,7 @@
 #Reset
 ![Simulation_reset](../Screens/Lab7_Isim4.png)
 
+## TOP
+![top_stopwatch](../Screens/top_stopwatch.png)
 
 
