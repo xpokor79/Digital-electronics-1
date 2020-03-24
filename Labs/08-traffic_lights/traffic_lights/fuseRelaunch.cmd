@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Acer/Desktop/ISE/traffic_lights/tlc_tb01_isim_beh.exe" -prj "C:/Users/Acer/Desktop/ISE/traffic_lights/tlc_tb01_beh.prj" "work.tlc_tb01" 
