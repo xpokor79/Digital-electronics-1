@@ -11,3 +11,4 @@
 
 ## State diagram
 ![State_diagram](../Screens/Lab8_state_diagram.png)
+Je-li to nutné, tak by tam měly být šipky ukazující z daného stavu na tentýž stav, když s_count < c_1sec (příp. c_5sec)
