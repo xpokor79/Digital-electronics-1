@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Acer/Desktop/ISE/countdown/encoder_driver_tb00_isim_beh.exe" -prj "C:/Users/Acer/Desktop/ISE/countdown/encoder_driver_tb00_beh.prj" "work.encoder_driver_tb00" 
