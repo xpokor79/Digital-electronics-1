@@ -1,4 +1,18 @@
 # Projekt Countdown
+## Popis
+Zadáním projektu bylo vytvořit countdown od nastavené číselné hodnoty zobrazené na 7-segmentovém displeji do nuly.
+
+Nastavování žádané číselné hodnoty provádíme pomocí enkodéru KY-040 s tlačítkem. Maximální možná hodnota, kterou lze nastavit je 59:59 [min:sec]. 
+
+Po zmáčknutí tlačítka, které je součástí enkodéru se začne od nastavené hodnoty odečítat do hodnoty 00:00. 
+Rychlost odčítání je dána konstantou c_1sec v modulu countdown.
+Pro zobrazování hodnoty na 7-segmenotvém displeji využíváme obvod TM1637, který využívá sériovou komunikaci. Sériovou komunikaci v modulu Display driver.
+
+Pro zobrazení hodnoty je potřeba nejprve poslat příkaz k zapisování dat, poté příkaz k nastavení adresy, následně data dané hodnoty a nakoec příkaz na nastavení displeje.
+
+K nastavení hodnoty je za potřebí sledovat pulzy vydávané enkodérem, díky kterým jsme schopni rozhodnout, zda-li je jím otáčeno a jaký směrem. O tuto problematiku se stará modul Encoder driver.
+
+Na základě výsledků simulací jsme usoudili, že by náš kód mohl být funkční. Pro konečné ověření funkčnosti našeho kódu by bylo nejlepší toto zapojení realizovat. 
 
 
 ## Komponenty
@@ -8,7 +22,7 @@
 
 [Encoder driver](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/encoder_driver.vhd)
 
-[Display driver](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/display_driver.vhd)
+[Display driver](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/display_driver2.vhd)
 
 ## Simlace + zapojení
 ### Zapojení countdown
