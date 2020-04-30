@@ -6,9 +6,9 @@
 
 [Countdown (modul)](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/countdown.vhd)
 
-[Encoder driver)](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/encoder_driver.vhd)
+[Encoder driver](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/encoder_driver.vhd)
 
-[Display driver)](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/display_driver.vhd)
+[Display driver](https://github.com/xpokor79/Digital-electronics-1/blob/master/Labs/Projekt%20-%20Countdown/countdown/display_driver.vhd)
 
 ## Simlace + zapojení
 ### Zapojení countdown
